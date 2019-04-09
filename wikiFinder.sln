@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28307.489
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "wikiFinder", "wikiFinder\wikiFinder.csproj", "{B2884EF2-9CEE-431D-89B7-CD6985E08A15}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{B2884EF2-9CEE-431D-89B7-CD6985E08A15}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B2884EF2-9CEE-431D-89B7-CD6985E08A15}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B2884EF2-9CEE-431D-89B7-CD6985E08A15}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B2884EF2-9CEE-431D-89B7-CD6985E08A15}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {A578F6FB-02BB-4A9D-8986-EC4F69DAC0F9}
+	EndGlobalSection
+EndGlobal
